@@ -9,7 +9,6 @@ Hey this is my journey of DATA Science. i will be publishing all my projects and
 Started: 19 February 2025
 
 
-
 \## Goals
 
 \- Master Python for Data Science
@@ -18,3 +17,22 @@ Started: 19 February 2025
 
 \- Secure a DS internship at a top Pakistani tech firm
 
+# Data Science Journey - MajorSohaib
+
+## Week 1 - Completed
+- Python fundamentals
+- Pandas data analysis
+- Data visualization with Matplotlib
+- Titanic EDA project
+
+## Projects
+### Titanic EDA
+Exploratory Data Analysis on Titanic dataset.
+Questions answered:
+- Overall survival rate
+- Survival by gender
+- Survival by passenger class
+- Survival by age group
+- Survival by family size
+
+Tools: Python, Pandas, Matplotlib, Seaborn
